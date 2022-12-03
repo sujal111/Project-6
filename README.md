@@ -1,36 +1,33 @@
-# Hi Buddy!! Welcome 👋
+# A decentralised and distributed platform for Freelancing community
 
-## Project Name: Plant Home Page
+## Project Name: Zero Knowledge Freelance Platform 
 
 ---
 
 ### Project Descripttion
 
-> **In this project I have created a Plant Home Page from scratch**
+> **In this project, we have created a decentralised freelancing community which enables zero knowledge transparency and authentic business between clients and freelancers. Clients and Freelancers collaborate and communicate through push notification and push Chat Dapp. WorldCoins is used for authentication and check if the user is human or not.  IPFS is used for blockchain storage and eventually the platform is deployed on vialist. **
 
 ---
 
 ## 🛠 Technologies used
 
-> HTML
+> Ethereum
 
-> CSS
+> Push Protocol for Notification and Chat
+
+> ReactJs 
+
+> IPFS, FileCoin,web3.storage 
+
+> WorldCoin for authentication 
+---
+
+
 
 ---
 
-## What I have learnt in this project
 
-> learned about positioning
-
-> learned about flexbox
-
-> got good understanding of HTML & CSS
-
----
-
-## Time taken to Finish this project
-
-> I have taken 3 hours to complete this project.
 
 ## Feedback
 
