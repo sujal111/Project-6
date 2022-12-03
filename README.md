@@ -6,7 +6,7 @@
 
 ### Project Descripttion
 
-> **In this project, we have created a decentralised freelancing community which enables zero knowledge transparency and authentic business between clients and freelancers. Clients and Freelancers collaborate and communicate through push notification and push Chat Dapp. WorldCoins is used for authentication and check if the user is human or not.  IPFS is used for blockchain storage and eventually the platform is deployed on vialist. **
+> **In this project, we have created a decentralised freelancing community which enables zero knowledge transparency and authentic business between clients and freelancers. Clients and Freelancers collaborate and communicate through push notification and push Chat Dapp. WorldCoins is used for authentication and check if the user is human or not.  IPFS is used for blockchain storage and eventually the platform is deployed on vialist.**
 
 ---
 
